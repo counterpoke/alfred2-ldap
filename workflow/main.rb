@@ -12,6 +12,7 @@ require "net-ldap"
 #TODO: Use alfred to set user/password/host/port/base/base_filter/encryption
 #TODO: Search by displayname, samaccountname, email
 #TODO: Gracefully fail if LDAP settings are incorrect
+#TODO: Update README.md
 
 USER = "REPLACE_ME"
 PASSWORD = "REPLACE_ME"
